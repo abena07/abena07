@@ -9,3 +9,5 @@
 - 📫 How to reach me: ...ummm you can mail me @abenabennett@gmail.com
 - ⚡ Fun fact: ... i actually love teaching kids how to code and i really like bread and rice i eat it almost everyday
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abena07&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
