@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ...Mobile App projects and UI/UX
-- 🌱 I’m currently learning ...React Native,Firebase and UI/UX
+- 🌱 I’m currently learning ...Mobile App Development and UI/UX
 - 👯 I’m looking to collaborate on ...any mobile app project!
 - 🤔 I’m looking for help with ...learning how to skate and getting better at fifa
 - 📫 How to reach me: ...ummm you can mail me @abenabennett@gmail.com
