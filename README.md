@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Mobile App projects and UI/UX
+- 🔭 I’m currently working on an e-commerce app and a 100 Days UI challenge
 - 🌱 I’m currently learning Mobile App Development,Videography and UI/UX
 - 👯 I’m looking to collaborate on any mobile app project!
 - 🤔 I’m looking for help with learning how to skate and getting better at fifa
