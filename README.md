@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on an e-commerce app and a 100 Days UI challenge
+- 🔭 I’m currently working on an e-commerce app and a 100 Days UI challenge.
 - 🌱 I’m currently learning Mobile App Development,Frontend and UI/UX
 - 🌱 I'm currentlty reading MINDSET:THE NEW PSYCHOLOGY OF SUCCESS.
 - 👯 I’m looking to collaborate on any mobile app or frontend project!
