@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an e-commerce app and a 100 Days UI challenge.
-- 🌱 I’m currently learning ReactNative, NodeJS, Figma, ReactJS.
+- 🌱 I’m currently learning ReactNative, NodeJS, Figma, ReactJS and some Python.
 - 🌱 I'm currentlty reading MINDSET:THE NEW PSYCHOLOGY OF SUCCESS.
 - 👯 I’m looking to collaborate on any mobile app or frontend project!
 - 🤔 I’m looking for help with learning how to skate and getting better at fifa.
