@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a monthly coding challenge and a 100 Days UI challenge.
+- 🔭 I’m currently working on a monthly coding challenges and a 100 Days UI challenge.
 - 🌱 I’m currently learning Javascript and Python.
 - 🤔 I’m looking for help with learning how to skate and getting better at fifa.
 - 📫 How to reach me:ummm you can mail me @abenabennett@gmail.com
