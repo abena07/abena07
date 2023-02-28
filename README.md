@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on a monthly coding challenges and a 100 Days UI challenge.
+- 🔭 I’m currently working on DSA, my frontend skills and a 100 Days UI challenge.
 - 🌱 I’m currently learning Javascript and Python.
-- 🤔 I’m looking for help with learning how to skate and getting better at fifa.
+- 🤔 I’m looking for help with getting better at fifa and skating.
 - 📫 How to reach me:ummm you can mail me @abenabennett@gmail.com
-- :mag: I am learning more on data science these days.
+- :mag: I am learning more on blockchain these days.
 - ⚡ Fun fact I actually love teaching kids how to code and I'm getting better in the Photo&Film field.
 
 
