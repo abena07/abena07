@@ -1,4 +1,4 @@
-### Hi there! 👋 i'm Abena
+### Hi there, 👋🏿 i'm Abena!
 
 
 
