@@ -2,7 +2,8 @@
 
 
 
-- 🌱 I’m currently learning DSA, polishing my fullstack skills and completing a 100 Days UI challenge.
+- 🌱 I’m currently learning DSA and TDD
+- occasionally i push pixels in figma
 - ![](https://komarev.com/ghpvc/?username=abena07&style=blueviolet)
 
 
