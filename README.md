@@ -1,7 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=abena07&color=blueviolet)
  
-Hi there, 👋🏿 i'm Abena!
+hi there, 👋🏿 i'm Abena!
+
+check out my [blog](https://abenabennett.bearblog.dev/blog/)
 
 
 
