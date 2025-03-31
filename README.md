@@ -5,7 +5,7 @@ hi there, 👋🏿 i'm Abena!
 
 currently breaking & building
 
-check out my [blog](https://abenabennett.bearblog.dev/blog/)
+documenting my journey [here](https://abenabennett.bearblog.dev/blog/)
 
 
 
