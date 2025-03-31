@@ -3,7 +3,7 @@
  
 hi there, 👋🏿 i'm Abena!
 
-building [chillseek](https://chillseek.app/)
+building & breaking
 
 check out my [blog](https://abenabennett.bearblog.dev/blog/)
 
