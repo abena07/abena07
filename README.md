@@ -3,7 +3,7 @@
  
 hi there, 👋🏿 i'm Abena!
 
-building & breaking
+currently breaking & building
 
 check out my [blog](https://abenabennett.bearblog.dev/blog/)
 
