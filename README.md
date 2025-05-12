@@ -5,7 +5,7 @@ hi there, 👋🏿 i'm Abena!
 
 currently breaking & building
 
-documenting my journey [here](https://www.bennett-eghan.com/#/blog)
+documenting my journey [here](https://www.bennett-eghan.com/blog)
 
 
 
