@@ -3,9 +3,9 @@
  
 hi there, 👋🏿 i'm Abena!
 
-i'm currently breaking, building & engineering things
+i'm currently breaking, building & engineering things.
 
-also, documenting my journey [here](https://www.bennett-eghan.com/blog)
+also, documenting my journey [here](https://www.bennett-eghan.com/blog).
 
 
 
